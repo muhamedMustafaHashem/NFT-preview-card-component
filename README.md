@@ -1,5 +1,6 @@
 # Frontend Mentor - NFT preview card component
 # training og editing on github
+^^^^
 
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
 
